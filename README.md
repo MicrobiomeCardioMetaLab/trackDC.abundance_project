@@ -8,5 +8,5 @@ Detail:
 
 
 Links:
-Published version: https://www.nature.com/articles/s41591-022-02014-8
+Published version:
 Preprint: https://www.biorxiv.org/content/10.1101/2023.03.30.535013v1
