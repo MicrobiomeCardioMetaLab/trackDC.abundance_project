@@ -1,7 +1,5 @@
 Creator: Lianmin Chen (for questions, please contact: lianminchen@njmu.edu.cn)
 
-Year: 2021-2022
-
 Current status: ongoing...
 
 Detail: 
