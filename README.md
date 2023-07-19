@@ -1,5 +1,3 @@
-Creator: Lianmin Chen (for questions, please contact: lianminchen@njmu.edu.cn)
-
 Current status: ongoing...
 
 Detail: 
