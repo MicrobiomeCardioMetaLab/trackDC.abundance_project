@@ -1,9 +1,6 @@
-Current status: ongoing...
+Current status: in press at GigaScience
 
 Detail: 
-
-
-Links:
 
 Published version:
 
